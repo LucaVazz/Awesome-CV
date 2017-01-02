@@ -75,9 +75,6 @@
 % Needed to use icons from font-awesome
 % (https://github.com/posquit0/latex-fontawesome)
 \RequirePackage{fontawesome}
-\RequirePackage[default,opentype]{sourcesanspro}
-% Needed for the photo ID
-\RequirePackage[skins]{tcolorbox}
 % Needed to deal a paragraphs
 \RequirePackage{parskip}
 % Needed to deal hyperlink
@@ -160,28 +157,36 @@
 %-------------------------------------------------------------------------------
 %                Configuration for fonts
 %-------------------------------------------------------------------------------
-% Set the FontAwesome font to be up-to-date.
 \newfontfamily\FA[Path=\@fontdir]{FontAwesome}
-% Set font for header (default is Roboto)
-\newfontfamily\headerfont[
+
+\newfontfamily\headerfont{Karma}[
   Path=\@fontdir,
   UprightFont=*-Regular,
-  ItalicFont=*-Italic,
-  BoldFont=*-Bold,
-  BoldItalicFont=*-BoldItalic,
-]{Roboto}
-
-\newfontfamily\headerfontlight[
+  BoldFont=*-Bold
+]
+\newfontfamily\headerfontlight{Karma}[
   Path=\@fontdir,
-  UprightFont=*-Thin,
-  ItalicFont=*-ThinItalic,
-  BoldFont=*-Medium,
-  BoldItalicFont=*-MediumItalic,
-]{Roboto}
+  UprightFont=*-Regular,
+  BoldFont=*-Bold
+]
 
-\newcommand*{\footerfont}{\sourcesanspro}
-\newcommand*{\bodyfont}{\sourcesanspro}
-\newcommand*{\bodyfontlight}{\sourcesansprolight}
+\newfontfamily\footerfont{Karma}[
+  Path=\@fontdir,
+  UprightFont=*-Regular,
+  BoldFont=*-Bold
+]
+
+\newfontfamily\bodyfont{Karma}[
+  Path=\@fontdir,
+  UprightFont=*-Regular,
+  BoldFont=*-Bold
+]
+\newfontfamily\bodyfontlight{Karma}[
+  Path=\@fontdir,
+  UprightFont=*-Regular,
+  BoldFont=*-SemiBold
+]
+
 
 %-------------------------------------------------------------------------------
 %                Configuration for styles

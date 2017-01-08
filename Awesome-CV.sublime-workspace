@@ -1,0 +1,1633 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"end",
+				"\\end{}                                            \tlatex-document"
+			],
+			[
+				"newe",
+				"\\newenvironment{nam}[args]{begdef}{enddef}        \tlatex-document"
+			],
+			[
+				"vspac",
+				"\\vspace{length}                                   \tlatex-document"
+			],
+			[
+				"medsk",
+				"\\medskip\ttex"
+			],
+			[
+				"foot",
+				"\\footnotesize\tlatex-document"
+			],
+			[
+				"textt",
+				"\\texttt{text}\tlatex-document"
+			],
+			[
+				"small",
+				"\\smallskip\ttex"
+			],
+			[
+				"sma",
+				"\\small\tlatex-document"
+			],
+			[
+				"cha",
+				"\\chapter*{title}\tlatex-document"
+			],
+			[
+				"sec",
+				"\\section{title}\tlatex-document"
+			],
+			[
+				"vsap",
+				"\\vspace{length}\tlatex-document"
+			],
+			[
+				"norma",
+				"\\normalsize\tlatex-document"
+			],
+			[
+				"footno",
+				"\\footnotesize\tlatex-document"
+			],
+			[
+				"thesu",
+				"\\thesubsection\tlatex-dev"
+			],
+			[
+				"Pflichtenhef",
+				"Pflichtenheft.tex"
+			],
+			[
+				"newcomm",
+				"\\renewcommand{cmd}[args][default]{def}\tlatex-document"
+			],
+			[
+				"newcom",
+				"\\newcommand{cmd}[args]{def}\tlatex-document"
+			],
+			[
+				"renew",
+				"\\renewcommand{cmd}{def}\tlatex-document"
+			],
+			[
+				"ren",
+				"\\renewcommand{cmd}[args]{def}\tlatex-document"
+			],
+			[
+				"vsp",
+				"\\vspace{length}\tlatex-document"
+			],
+			[
+				"rule",
+				"\\rule{width}{thickness}\tlatex-document"
+			],
+			[
+				"usepac",
+				"\\usepackage{package}\tlatex-document"
+			],
+			[
+				"use",
+				"\\usepackage{package}\tlatex-document"
+			],
+			[
+				"eas",
+				"ease-in"
+			],
+			[
+				"animato",
+				"animation-timing-function"
+			],
+			[
+				"animatio",
+				"animation-name"
+			],
+			[
+				"tras",
+				"transition"
+			],
+			[
+				"flex-",
+				"flex-grow"
+			],
+			[
+				"tp",
+				"top"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"w",
+				"wrap"
+			],
+			[
+				"lay",
+				"display"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bo",
+				"border-box"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bore",
+				"border-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pop",
+				"popArg"
+			],
+			[
+				"ar",
+				"mArguments"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"load",
+				"loadR"
+			],
+			[
+				"nex",
+				"nextNumber"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"paddig",
+				"padding-left"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"fex-",
+				"flex-flow"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"flex",
+				"flex"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"searc",
+				"searchSteckoverflow"
+			],
+			[
+				"sea",
+				"searchWikipedia"
+			],
+			[
+				"ca",
+				"catch\t   try-catch - block"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"r",
+				"rgb"
+			],
+			[
+				"chec",
+				"check-backtrack"
+			],
+			[
+				"begin",
+				"beginCaptures\tbeginCaptures:"
+			],
+			[
+				"be",
+				"begin\tbegin:"
+			],
+			[
+				"beg",
+				"begin\tbegin:"
+			],
+			[
+				"ma",
+				"match"
+			],
+			[
+				"m",
+				"mX"
+			],
+			[
+				"as_",
+				"as_d0f"
+			],
+			[
+				"pro",
+				"product-operators"
+			],
+			[
+				"f",
+				"forall"
+			],
+			[
+				"gen",
+				"general-function-block"
+			],
+			[
+				"gne",
+				"general-function-parameters"
+			],
+			[
+				"iter",
+				"iterator-chain"
+			],
+			[
+				"setl-",
+				"setl-vector"
+			],
+			[
+				"at",
+				"atomic-number"
+			],
+			[
+				"begi",
+				"begin\tbegin:"
+			],
+			[
+				"atomic",
+				"atomic-comment"
+			],
+			[
+				"atomic-numb",
+				"atomic-number-fraction"
+			],
+			[
+				"ato",
+				"atomic-comment-line"
+			],
+			[
+				"atom",
+				"atomic-double"
+			],
+			[
+				"atomi",
+				"atomic-false"
+			],
+			[
+				"atomic-t",
+				"atomic-true"
+			],
+			[
+				"num",
+				"numeric"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cv.out",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 624.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git am",
+				"Git: Amend Commit"
+			],
+			[
+				"git add c",
+				"Git: Add Current File"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"set mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"boxy ",
+				"Boxy Theme: Activation"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git reset",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add a",
+				"Git: Add All"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"markdown pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"setlx",
+				"Set Syntax: SetlX"
+			],
+			[
+				"set setlx",
+				"Set Syntax: SetlX"
+			],
+			[
+				"set set",
+				"Set Syntax: SetlX"
+			],
+			[
+				"set r",
+				"Set Syntax: R"
+			],
+			[
+				"boy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"git file",
+				"Git: Graph Current File"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"tag",
+				"Git: New Tag"
+			],
+			[
+				"ame",
+				"Git: Amend Commit"
+			],
+			[
+				"git ",
+				"Set Syntax: Git Graph"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"pkc",
+				"Package Control: List Packages"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"floo",
+				"Floobits - Leave Workspace"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"prev",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"set mar",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"inser",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pkg ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pkg install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pkg remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"pkc up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"set late",
+				"Set Syntax: BibLaTeX"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"latex",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"unicod",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"unicode",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"prewv",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"git bra",
+				"Git: Change Branch"
+			],
+			[
+				"git new ta",
+				"Git: New Tag"
+			],
+			[
+				"git tag",
+				"Git: New Tag"
+			],
+			[
+				"git branch",
+				"Git: Change Branch"
+			],
+			[
+				"git add curren",
+				"Git: Add Current File"
+			],
+			[
+				"git amm",
+				"Git: Amend Commit"
+			],
+			[
+				"git comi",
+				"Git: Commit"
+			],
+			[
+				"create p",
+				"Package Control: Create Package File"
+			],
+			[
+				"markdown preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"syntax setlx",
+				"Set Syntax: SetlX"
+			],
+			[
+				"seltx",
+				"Build With: SetlX"
+			],
+			[
+				"git rese",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"typesc",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C#"
+			],
+			[
+				"git add al",
+				"Git: Add All"
+			],
+			[
+				"build",
+				"Build With: SetlX"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"setl",
+				"Set Syntax: SetlX"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"snippet",
+				"PackageDev: Generate Snippet from Raw Snippet"
+			],
+			[
+				"table disable",
+				"Table Editor: Disable for current view"
+			],
+			[
+				"SETLX",
+				"Set Syntax: SetlX"
+			],
+			[
+				"new snipp",
+				"PackageDev: Generate Snippet from Raw Snippet"
+			],
+			[
+				"gi ",
+				"Git: Status"
+			],
+			[
+				"set setl",
+				"Set Syntax: SetlX"
+			],
+			[
+				"new snip",
+				"PackageDev: Generate Snippet from Raw Snippet"
+			],
+			[
+				"re",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"dev ",
+				"PackageDev: New Commands File"
+			],
+			[
+				"test default",
+				"ChannelRepositoryTools: Test Default Channel"
+			],
+			[
+				"test ",
+				"ChannelRepositoryTools: Test Default Channel"
+			],
+			[
+				"git amme",
+				"Git: Amend Commit"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git quick c",
+				"Git: Quick Commit"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"floobits",
+				"Floobits - Share Directory (Private)"
+			],
+			[
+				"compare",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"gitgutt",
+				"GitGutter: Compare Against Origin"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"termianl",
+				"Terminal: Open in project folder"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"github",
+				"Github: Repository"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git gutt",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"revert",
+				"File: Revert"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 972.0
+	},
+	"console":
+	{
+		"height": 334.0,
+		"history":
+		[
+			"jsbeautify",
+			"open_url",
+			"OpenQuickrefCommand()",
+			"typescript_format_document",
+			"setlxhelper_qr_open_online"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Luca/Documents/DHBW/Awesome-CV"
+	],
+	"file_history":
+	[
+		"/C/Users/Luca/Documents/DHBW/Awesome-CV/Awesome-CV.sublime-project",
+		"/C/Users/Luca/Downloads/forge-1.11-13.19.1.2195-installer-win.exe.log",
+		"/C/Users/Luca/Downloads/hosts",
+		"/C/Users/Luca/Downloads/test.log",
+		"/C/Users/Luca/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Luca/AppData/Roaming/Sublime Text 3/Packages/Javascript Beautify/Default (Windows).sublime-keymap",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/content/abstractDE.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/main.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/layout.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/setup.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/titlepage.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/content/chapters/template.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/indexes.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/README.md",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/elements.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/main.lot",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/packages.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/content/macros.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/content/content.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/content/appendix.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/content/acronyms.tex",
+		"/C/Users/Luca/AppData/Roaming/Sublime Text 3/Packages/Character Table/Character Table.sublime-settings",
+		"/C/Users/Luca/AppData/Roaming/Sublime Text 3/Packages/User/Character Table/Default.sublime-keymap",
+		"/C/Users/Luca/AppData/Roaming/Sublime Text 3/Packages/Character Table/Default.sublime-settings",
+		"/C/Users/Luca/AppData/Local/Programs/MiKTeX 2.9/tex/latex/biblatex/biblatex.sty",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/main.pdf",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/lib/listing/json_language.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/lib/listing/html5_language.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/lib/listing/javascript_language.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/resources/references.bib",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/lib/listing/java_language.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/content/indexes.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/content/declaration.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/confidentiality.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/abstracts.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/content/abstractEN.tex",
+		"/C/Users/Luca/Documents/DHBW/Report-Template/abstract.tex",
+		"/C/Users/Luca/OneDrive/Dokumente/Backup/Dateien/asdf/chatzy_Emily am öffentlichen Strand_11-12-16.txt",
+		"/X/anna/WhatsApp Chat mit Luca ÔÖí.txt",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/errorhandling.R",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/simulate_run.R",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/NAMESPACE",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/import_WUnderground.R",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/import_wetterDataImport.R",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/import_Vorlesungsplan_noClass.R",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/DESCRIPTION",
+		"/C/Users/Luca/AppData/Local/Temp/Temp1_RaTemp_R-Skripte.zip/Skripte/man/computeHeatRadiation.Rd",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/README.md",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/.gitignore",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/.gitignore",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/icalUidData.csv",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Luca/Downloads/WIMBIT13C.ics",
+		"/C/Windows/System32/drivers/etc/lmhosts.sam",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/start.R",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/server.R",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/buildingdata.csv",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/app.R",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/dashboardRooms.csv",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/sample.log",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/Berechnung-2016-11-04.rData",
+		"/C/Users/Luca/Downloads/Coblitzallee_GebäudeB_1OG.dwg",
+		"/C/Users/Luca/Downloads/Coblitzallee_GebäudeB_1OG_2.dwf",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/Simulation/buildingdata.CSV",
+		"/C/Users/Luca/Downloads/test.ics",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/simulation/R/Simulation/dashboardRooms.csv",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/NotificationDemo/NotificationDemo/ViewController.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/NotificationDemo/NotificationDemo/EnumMyNotification.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/NotificationDemo/NotificationDemo/AppDelegate.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/NavigationController/NavigationController/AppDelegate.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/LocalPushNotification/LocalPushNotification/ViewController.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/LocalPushNotification/LocalPushNotification/AppDelegate.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/FreitagStackView/FreitagStackView/StackViewController.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/FreitagStackView/FreitagStackView/AppDelegate.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/FreitagsBilder/FreitagsBilder/ViewController.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/FreitagsBilder/FreitagsBilder/TableViewController.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/FreitagsBilder/FreitagsBilder/PictureContainer.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/FreitagsBilder/FreitagsBilder/MyCell.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/FreitagsBilder/FreitagsBilder/DetailViewController.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/FreitagsBilder/FreitagsBilder/AppDelegate.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/FirstFreitagApp/Freitag/ViewController.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/FirstFreitagApp/Freitag/AppDelegate.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/DynamicAutoLayout/DynamicAutoLayout/ViewController.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/_Demos/DynamicAutoLayout/DynamicAutoLayout/AppDelegate.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/Telefonbuch/Telefonbuch/Adress.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/Telefonbuch/Telefonbuch/Adressbook.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/Telefonbuch/Telefonbuch/AdressCell.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/Telefonbuch/Telefonbuch/AppDelegate.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/Telefonbuch/Telefonbuch/Contacts.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/Telefonbuch/Telefonbuch/ControllerWithDetailsProtocoll.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/Telefonbuch/Telefonbuch/DetailController.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/Telefonbuch/Telefonbuch/EditController.swift",
+		"/C/Users/Luca/Downloads/Swift-Freitag/Telefonbuch/Telefonbuch/ListController.swift",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/configuration.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/content/datenmodell.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/content/conventions.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/content/logische_sicht.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/content/kontrollfluss.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/layout.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/content/contentstructure.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/.gitignore",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/content/konzepte.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/content/bibliotheken.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/packages.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/Architekturentwurf_RaTemp.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/content/sequenz_simulation.pdf",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/pflichtenheft/Pflichtenheft.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/pflichtenheft/usercontent.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/pflichtenheft/Pflichtenheft.aux",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/architektur.sublime-project",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architektur/README.md",
+		"/D/Meine Projekte/WebModernUITiles/README.md",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/pflichtenheft/Pflichtenheft.sublime-project",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architekturentwurf/content/Kontrollfluss.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architekturentwurf/content/konzepte.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architekturentwurf/layout.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architekturentwurf/architekturentwurf.sublime-project",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architekturentwurf/Architekturentwurf_RaTemp.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architekturentwurf/main.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architekturentwurf/configuration.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architekturentwurf/content/datenmodell.tex",
+		"/C/Users/Luca/ownCloud_Joshua/Software Engineering Hitzeentwicklung in der DHBW/Architekturentwurf/161022_WebEx-Meeting_Entscheidungsprotokoll.txt",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/architekturentwurf/content/contentstructure.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/Dokumente_OwnCloud/Architekturentwurf/161022_WebEx-Meeting_Entscheidungsprotokoll.txt",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/document_template/content/contentstructure.tex",
+		"/D/Meine Projekte/TileBrowserStart/amadeus.html",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/document_template/layout.tex",
+		"/C/Users/Luca/Documents/DHBW/Software Engineering Projekt/document_template/main.tex"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 220.0,
+		"where_history":
+		[
+			"",
+			"*.R",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"include",
+			"    \\",
+			"{",
+			"sloppy",
+			"\\sloppy",
+			"%",
+			"\\caption",
+			"caption",
+			"{table}",
+			"#3",
+			"3",
+			"activateConfidentialityClause",
+			"java_language",
+			"java_language.tex",
+			"\t",
+			"lstlistoflistings",
+			"\t",
+			"library",
+			"library(",
+			"library",
+			"icalUidData.csv",
+			"source",
+			"shiny",
+			"library(",
+			")",
+			"<-",
+			",",
+			"own_json",
+			"13",
+			"([A-Z0-9])+(13)(.)+\n",
+			")",
+			"library(",
+			".",
+			" ",
+			"optiom",
+			"(\">)([a-zA-Z0-9 \\,()\\-\\\\\\/\\.]+)(</option>)",
+			"(\">)([a-zA-Z0-9 \\,()\\\\\\/\\.]+)(</option>)",
+			"(\">)([a-zA-Z0-9 \\,()\\-\\\\\\/]+)(</option>)",
+			"(\">)([a-zA-Z0-9 \\,()\\\\]+)(</option>)",
+			"(\">)([a-zA-Z0-9 \\,()\\-]+)(</option>)",
+			"(\">)([a-zA-Z0-9 \\,()]+)(</option>)",
+			"\" value=\"",
+			"<option label=\"",
+			"optgroup",
+			"(<optgroup label=\")([a-zA-Z0-9 \\,]+)(\">)",
+			" ",
+			"(\">)([a-zA-Z0-9 ]+)(</option>)",
+			"\" value=\"",
+			"<option label=\"",
+			"(<optgroup label=\")([a-zA-Z0-9 ]+)(\">)",
+			"</option>",
+			")",
+			"library(",
+			"location:\\n",
+			"location:",
+			"20161110",
+			"hörs",
+			"Created by user1",
+			"pflichten",
+			"pflichtenheft",
+			"{\"",
+			"ß",
+			"ä",
+			"Ö",
+			"ö",
+			"Ü",
+			"ü",
+			"pagebreak",
+			"simulation}",
+			"simulation",
+			"klassen",
+			"Ÿ",
+			"simulatio",
+			"Ÿ",
+			"\\ss",
+			"ss",
+			"=",
+			"`",
+			"`([a-zA-Z0-9]|\\-|\\+|%|<|>|\\*|=|{|}|\\(|\\)|\\,|\\:)+`",
+			"`([a-zA-Z0-9]|\\-|\\+|%|<|>|\\*|=|{|}|\\(|\\))+`",
+			"`(`",
+			"`([a-zA-Z0-9]|\\-|\\+|%|<|>|\\*|=|{|}|\\(|\\))+`",
+			"`([a-zA-Z0-9]|\\-|\\+|%|<|>|\\*|=)+`",
+			"`([a-zA-Z0-9]|\\-|\\+|%|<|>|\\*)+`",
+			"`",
+			"ß",
+			"ö",
+			"ü",
+			"ä",
+			"name",
+			"rotating",
+			"lscape",
+			"ä",
+			"ü",
+			"ö",
+			"ü",
+			"ö",
+			"}",
+			"Simulations",
+			"ö",
+			"ü",
+			"ä",
+			"enumerate",
+			"from Luca Cataldo VAZZANO to Everyone:",
+			"size",
+			"ram",
+			"in",
+			"\\\\",
+			"keywords",
+			"iterator",
+			"iterato",
+			"in)",
+			"in",
+			"iterator",
+			"for",
+			"forall",
+			"variable",
+			"number",
+			"atomics",
+			"values",
+			"functionsymb",
+			"functionsy",
+			"@",
+			"functions",
+			"variable",
+			"f1-20-40",
+			"f2-20-20",
+			"verg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"emergencystretch=.3em ",
+			"",
+			"activateconfidentialityclause",
+			"",
+			";",
+			"",
+			";",
+			"",
+			"</option>\n",
+			"Created by Mai Tran and Luca Vazzano",
+			"{\\\"",
+			"{\\ss}",
+			"{\\\"a}",
+			"{\\\"o}",
+			"{\\\"U}",
+			"{\\\"u}",
+			"",
+			"\\\\texttt{$1}",
+			"\\texttt{$1}",
+			"$1",
+			"'##'",
+			"{\\ss}",
+			"{\\\"o}",
+			"{\\\"u}",
+			"{\\\"a}",
+			"{\\\"u}",
+			"{\\\"o}",
+			"{\\\"u}",
+			"{\\\"a}",
+			"featurerating",
+			"",
+			"\\featurerating",
+			"\\idbadge{\\#",
+			"\\#",
+			"section",
+			"\\rating{Medium}{Medium}",
+			"\\rating{High}{Hard}",
+			"\\rating{High}{Medium}",
+			"\\rating{Low}{Easy}",
+			"\\rating{High}{Very Easy}",
+			"\\rating{Low}{Medium}",
+			"\\documenthandoverdate",
+			"\\documentversion",
+			"\\documentkeywords",
+			"\\documentsubtitle",
+			"\\documenttitle",
+			"\\idbadge{",
+			"\\idbadge[\\#",
+			"\\color{PaleRed}\\textbf{\\#",
+			"",
+			";",
+			"${1}",
+			"",
+			";\n\n",
+			"",
+			"${1};",
+			"",
+			"${2};${3};${4};${6};${7};",
+			"${1}",
+			"",
+			";\n\n",
+			"",
+			"${1};",
+			"",
+			"${1}",
+			"",
+			";\n\n",
+			"",
+			"${2};${3};${4};",
+			"",
+			"${1}",
+			";\n\n",
+			";\n",
+			"",
+			"${2};${3};${4};",
+			"",
+			"${2};${3};${4}",
+			"$2;$3;$4",
+			"$1;$2;$3",
+			"-webkit-filter",
+			"ff",
+			"$1\t",
+			"\t",
+			"\n",
+			"Luca",
+			"Anna",
+			"a",
+			"Mark",
+			"functionSymbol"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cv.out",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 0,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 74.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 234.0
+	},
+	"output.latextools":
+	{
+		"height": 339.0
+	},
+	"output.markdown":
+	{
+		"height": 0.0
+	},
+	"output.unicode_preview":
+	{
+		"height": 1066.0
+	},
+	"pinned_build_system": "",
+	"project": "Awesome-CV.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"conif",
+				"configuration.tex"
+			],
+			[
+				"kontro",
+				"content\\kontrollfluss.tex"
+			],
+			[
+				"content",
+				"content\\contentstructure.tex"
+			],
+			[
+				"konzept",
+				"content\\konzepte.tex"
+			],
+			[
+				"config",
+				"configuration.tex"
+			],
+			[
+				"dat",
+				"content\\datenmodell.tex"
+			],
+			[
+				"setlx",
+				"setl.tex"
+			],
+			[
+				"st",
+				"styles\\site.css"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"my",
+				"C:\\Users\\Luca\\Downloads\\my_calculator.stlx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 352.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -284,6 +284,9 @@
 % Usage: \mobile{<mobile number>}
 \newcommand*{\mobile}[1]{\def\@mobile{#1}}
 
+% Usage: \phone{<telephone number>}
+\newcommand*{\phone}[1]{\def\@phone{#1}}
+
 % Usage: \email{<email adress>}
 \newcommand*{\email}[1]{\def\@email{#1}}
 
@@ -437,6 +440,12 @@
             {%
                \faMobile\acvHeaderIconSep\@mobile%
                \setbool{isstart}{false}%
+            }%
+         \ifthenelse{\isundefined{\@phone}}%
+            {}%
+            {%
+               \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+               \faPhone\acvHeaderIconSep\@phone%
             }%
          \ifthenelse{\isundefined{\@email}}%
             {}%

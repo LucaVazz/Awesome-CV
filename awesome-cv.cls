@@ -134,15 +134,13 @@
 \colorlet{graytext}{gray}
 \colorlet{lighttext}{lightgray}
 % Awesome colors
-\definecolor{awesome-emerald}{HTML}{00A388}
-\definecolor{awesome-skyblue}{HTML}{0395DE}
+\definecolor{awesome-emerald}{HTML}{2CA333}
+\definecolor{awesome-skyblue}{HTML}{005EB8}
 \definecolor{awesome-red}{HTML}{DC3522}
-\definecolor{awesome-pink}{HTML}{EF4089}
-\definecolor{awesome-orange}{HTML}{FF6138}
-\definecolor{awesome-nephritis}{HTML}{27AE60}
+\definecolor{awesome-cherry}{HTML}{CE0E5E}
+\definecolor{awesome-orange}{HTML}{F85828}
 \definecolor{awesome-concrete}{HTML}{95A5A6}
-\definecolor{awesome-darknight}{HTML}{131A28}
-\colorlet{awesome}{awesome-red}
+\definecolor{awesome}{HTML}{2ACA62}
 
 % Boolean value to switch section color highlighting
 \newbool{acvSectionColorHighlight}

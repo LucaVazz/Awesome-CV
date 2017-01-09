@@ -77,7 +77,7 @@
 \RequirePackage{fontawesome}
 % Needed to deal a paragraphs
 \RequirePackage{parskip}
-% Needed to deal hyperlink
+% Needed to deal with hyperlink
 \RequirePackage[hidelinks,unicode]{hyperref}
 \hypersetup{%
    pdftitle={},
@@ -85,6 +85,8 @@
    pdfsubject={},
    pdfkeywords={}
 }
+% Needed to add preview/placeholder text
+\RequirePackage{lipsum}
 
 
 %-------------------------------------------------------------------------------

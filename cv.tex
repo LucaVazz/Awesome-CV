@@ -30,6 +30,14 @@
 % Load user-configuration
 \input{setup.tex}
 
+% set the properties of the PDF-file
+\hypersetup{%
+   pdftitle={Curriculum Vitae of \getfullname\ for \companyname},
+   pdfauthor={\getfullname},
+   pdfsubject={Curriculum Vitae},
+   pdfkeywords={Curriculum Vitae, CV, \getfullname}
+}
+
 
 %-------------------------------------------------------------------------------
 \begin{document}
@@ -44,7 +52,7 @@
 %  (<left>, <center>, <right>)
 \makecvfooter
   {\today}
-  {\makefullname~~~·~~~Curriculum Vitae}
+  {\getfullname~~~·~~~Curriculum Vitae}
   {\thepage}
 
 

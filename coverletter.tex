@@ -29,6 +29,14 @@
 % Load user-configuration
 \input{setup.tex}
 
+% set the properties of the PDF-file
+\hypersetup{%
+   pdftitle={\getlettertitle},
+   pdfauthor={\getfullname},
+   pdfsubject={Cover Letter},
+   pdfkeywords={\getlettertitle, \getfullname, Cover Letter}
+}
+
 
 %-------------------------------------------------------------------------------
 \begin{document}
@@ -42,7 +50,7 @@
 %  (<left>, <center>, <right>)
 \makecvfooter
   {\today}
-  {\makefullname~~~·~~~Cover Letter}
+  {\getfullname~~~·~~~Cover Letter}
   {}
 
 % Print the title with the given letter informations

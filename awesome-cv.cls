@@ -79,12 +79,6 @@
 \RequirePackage{parskip}
 % Needed to deal with hyperlink
 \RequirePackage[hidelinks,unicode]{hyperref}
-\hypersetup{%
-   pdftitle={},
-   pdfauthor={},
-   pdfsubject={},
-   pdfkeywords={}
-}
 % Needed to add preview/placeholder text
 \RequirePackage{lipsum}
 
@@ -711,6 +705,10 @@
 %-------------------------------------------------------------------------------
 %  Commands for generally used elements
 %-------------------------------------------------------------------------------
-\newcommand*{\makefullname}{%
+\newcommand*{\getfullname}{%
    \@firstname\ \@lastname
+}
+
+\newcommand*{\getlettertitle}{%
+   \@lettertitle
 }
